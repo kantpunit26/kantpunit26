@@ -11,11 +11,9 @@
 <p align="left"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs" alt="Languages" /></p>
 <h3 align="left">🧰 IDEs & Tools Use :</h3>
 <p align="left"><img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind,fastapi,firebase,linux" alt="Tools" /></p>
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" /></p>
 <h3 align="left">📊 GitHub Profile Summary</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kantpunit26&show_icons=true&theme=dark&hide_border=true" alt="Stats" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 </td>
