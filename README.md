@@ -29,13 +29,13 @@
 </ul>
 <h3 align="left">💼 LinkedIn Profile</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/Punit Kant">
 <img src="https://img.shields.io/badge/LinkedIn-crimson?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a><br>
 Connect with me for collaborations in Computational Biology and Full-Stack Development!
 </p>
 <h3 align="left">⚡ GitHub Streak Stats</h3>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak Stats" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kantpunit26&theme=dark&hide_border=true" alt="Streak Stats" /></p>
 </td>
 </tr>
 </table>
