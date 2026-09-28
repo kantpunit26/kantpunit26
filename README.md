@@ -18,7 +18,7 @@
 </p>
 </td>
 <td width="50%" valign="top" style="border: none;">
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=crimson&style=for-the-badge" alt="Profile Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kantpunit26&label=PROFILE+VIEWS&color=crimson&style=for-the-badge" alt="Profile Views" /></p>
 <h3 align="left">🚀 Featured Projects</h3>
 <ul align="left">
 <li>🌱 <b>HARIYALI:</b> Predict-Plant-Prosper (AI-powered agriculture)</li>
