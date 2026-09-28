@@ -1,4 +1,4 @@
-# Hi there, I'm Punit Kant 👋
+# Hi there, I'm Punit Kant
 
 ### Bridging Biotechnology & Full-Stack Software Engineering
 
@@ -24,8 +24,4 @@ I am a B.Tech Biotechnology student at Parul University, specializing in transla
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kantpunit26&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantpunit26&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
+
