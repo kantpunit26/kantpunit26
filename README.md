@@ -29,7 +29,7 @@
 </ul>
 <h3 align="left">💼 LinkedIn Profile</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Punit Kant">
+<a href="https://www.linkedin.com/in/punit-kant-93010a206?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-crimson?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a><br>
 Connect with me for collaborations in Computational Biology and Full-Stack Development!
