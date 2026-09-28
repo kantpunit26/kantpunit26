@@ -1,74 +1,46 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=150&section=header&text=PUNIT%20KANT&fontSize=50&fontColor=ffffff&desc=B.Tech%20Biotech%20%7C%20Computational%20Biology%20%7C%20Full-Stack%20Dev&descAlignY=70&descAlign=50" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=150&section=header&text=PUNIT%20KANT&fontSize=50&fontColor=ffffff&desc=B.Tech%20Biotech%20%7C%20Computational%20Biology%20%7C%20Full-Stack%20Dev&descAlignY=70&descAlign=50" alt="Header" />
+</div>
+
+<!-- Main Body Two-Column Layout (Blank lines removed to fix GitHub rendering errors) -->
+<table align="center" style="border-collapse: collapse; border: none;" width="100%">
+<tr>
+<td width="50%" valign="top" style="border: none;">
+<h3 align="left">🛠️ Tech Languages Use :</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs" alt="Languages" /></p>
+<h3 align="left">🧰 IDEs & Tools Use :</h3>
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind,fastapi,firebase,linux" alt="Tools" /></p>
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" /></p>
+<h3 align="left">📊 GitHub Profile Summary</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
-<!-- Main Body Two-Column Layout -->
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top">
-      
-      <h3>🛠️ Tech Languages Use :</h3>
-      <p>
-        <!-- Skill icons for your programming languages -->
-        <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs" /><br>
-      </p>
-
-      <h3>🧰 IDEs & Tools Use :</h3>
-      <p>
-        <!-- Skill icons for your frameworks and tools -->
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind,fastapi,firebase,linux" /><br>
-      </p>
-
-      <h3>🏆 GitHub Trophies</h3>
-      <p>
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true" />
-      </p>
-
-      <h3>📊 GitHub Profile Summary</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" /><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
-      </p>
-      
-    </td>
-
-    <!-- RIGHT COLUMN -->
-    <td width="50%" valign="top">
-      
-      <p align="center">
-        <!-- Profile Views Badge -->
-        <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=crimson&style=for-the-badge" />
-      </p>
-
-      <h3>🚀 Featured Projects</h3>
-      <ul>
-        <li>🌱 <b>HARIYALI:</b> Predict-Plant-Prosper (AI-powered agriculture)</li>
-        <li>🧬 <b>GuTek:</b> AI-driven clinical nutrition & microbiome analysis</li>
-        <li>🐟 <b>AquaBioID & Quantavita:</b> eDNA processing platforms</li>
-      </ul>
-
-      <h3>📜 LeetCode / Coding Stats</h3>
-      <ul>
-        <li>🔗 <a href="#">View My LeetCode Profile</a></li>
-        <li>💻 Languages Used: Python, Java, C</li>
-      </ul>
-      <p align="center">
-        <!-- Replace YOUR_LEETCODE_USERNAME below -->
-        <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=heatmap" />
-      </p>
-      
-      <h3>⚡ GitHub Streak Stats</h3>
-       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kantpunit26 &theme=dark&hide_border=true" />
-      </p>
-      
-    </td>
-  </tr>
+</td>
+<td width="50%" valign="top" style="border: none;">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=crimson&style=for-the-badge" alt="Profile Views" /></p>
+<h3 align="left">🚀 Featured Projects</h3>
+<ul align="left">
+<li>🌱 <b>HARIYALI:</b> Predict-Plant-Prosper (AI-powered agriculture)</li>
+<li>🧬 <b>GuTek:</b> AI-driven clinical nutrition & microbiome analysis</li>
+<li>🐟 <b>AquaBioID & Quantavita:</b> eDNA processing platforms</li>
+</ul>
+<h3 align="left">💼 LinkedIn Profile</h3>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-crimson?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a><br>
+Connect with me for collaborations in Computational Biology and Full-Stack Development!
+</p>
+<h3 align="left">⚡ GitHub Streak Stats</h3>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak Stats" /></p>
+</td>
+</tr>
 </table>
 
 <!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=100&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=100&section=footer" alt="Footer" />
+</div>
