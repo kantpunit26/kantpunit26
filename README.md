@@ -1,27 +1,74 @@
-# Hi there, I'm Punit Kant
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=150&section=header&text=PUNIT%20KANT&fontSize=50&fontColor=ffffff&desc=B.Tech%20Biotech%20%7C%20Computational%20Biology%20%7C%20Full-Stack%20Dev&descAlignY=70&descAlign=50" />
+</p>
 
-### Bridging Biotechnology & Full-Stack Software Engineering
+<!-- Main Body Two-Column Layout -->
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" valign="top">
+      
+      <h3>🛠️ Tech Languages Use :</h3>
+      <p>
+        <!-- Skill icons for your programming languages -->
+        <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,nodejs" /><br>
+      </p>
 
-I am a B.Tech Biotechnology student at Parul University, specializing in translating complex biological data into scalable, user-centric web platforms. My engineering focus lies at the intersection of computational biology, artificial intelligence, and modern web architecture.
+      <h3>🧰 IDEs & Tools Use :</h3>
+      <p>
+        <!-- Skill icons for your frameworks and tools -->
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,tailwind,fastapi,firebase,linux" /><br>
+      </p>
 
-- 🔬 **Current Focus:** eDNA sequence analysis, metagenomics, and clinical nutrition algorithms.
-- 💻 **Building:** AI-driven platforms for agriculture (**HARIYALI**) and clinical microbiome analysis (**GuTek**).
-- 🧬 **Domain Expertise:** Next-Generation Sequencing (NGS) analysis, multi-omics integration, and CRISPR-Cas9 mechanisms.
-- 🤝 **Let's Collaborate:** I am always open to collaborating on bioinformatics tools and full-stack agritech/healthtech solutions.
+      <h3>🏆 GitHub Trophies</h3>
+      <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&column=3&margin-w=15&margin-h=15&no-frame=true" />
+      </p>
 
-### 🛠️ Tech Stack & Tools
+      <h3>📊 GitHub Profile Summary</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" /><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
+      </p>
+      
+    </td>
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    <!-- RIGHT COLUMN -->
+    <td width="50%" valign="top">
+      
+      <p align="center">
+        <!-- Profile Views Badge -->
+        <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=crimson&style=for-the-badge" />
+      </p>
 
-**Backend & APIs**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      <h3>🚀 Featured Projects</h3>
+      <ul>
+        <li>🌱 <b>HARIYALI:</b> Predict-Plant-Prosper (AI-powered agriculture)</li>
+        <li>🧬 <b>GuTek:</b> AI-driven clinical nutrition & microbiome analysis</li>
+        <li>🐟 <b>AquaBioID & Quantavita:</b> eDNA processing platforms</li>
+      </ul>
 
+      <h3>📜 LeetCode / Coding Stats</h3>
+      <ul>
+        <li>🔗 <a href="#">View My LeetCode Profile</a></li>
+        <li>💻 Languages Used: Python, Java, C</li>
+      </ul>
+      <p align="center">
+        <!-- Replace YOUR_LEETCODE_USERNAME below -->
+        <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Syne&ext=heatmap" />
+      </p>
+      
+      <h3>⚡ GitHub Streak Stats</h3>
+       <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
+      </p>
+      
+    </td>
+  </tr>
+</table>
 
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=crimson&height=100&section=footer" />
+</p>
